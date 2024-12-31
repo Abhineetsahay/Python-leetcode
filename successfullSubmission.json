@@ -1,0 +1,75 @@
+{
+    "count": 10,
+    "submission": [
+        {
+            "title": "Ransom Note",
+            "titleSlug": "ransom-note",
+            "timestamp": "1735624584",
+            "statusDisplay": "Accepted",
+            "lang": "cpp"
+        },
+        {
+            "title": "Average of Levels in Binary Tree",
+            "titleSlug": "average-of-levels-in-binary-tree",
+            "timestamp": "1735577085",
+            "statusDisplay": "Accepted",
+            "lang": "cpp"
+        },
+        {
+            "title": "Counter II",
+            "titleSlug": "counter-ii",
+            "timestamp": "1735465595",
+            "statusDisplay": "Accepted",
+            "lang": "javascript"
+        },
+        {
+            "title": "Complete Binary Tree Inserter",
+            "titleSlug": "complete-binary-tree-inserter",
+            "timestamp": "1735465314",
+            "statusDisplay": "Accepted",
+            "lang": "cpp"
+        },
+        {
+            "title": "Binary Tree Tilt",
+            "titleSlug": "binary-tree-tilt",
+            "timestamp": "1735370288",
+            "statusDisplay": "Accepted",
+            "lang": "cpp"
+        },
+        {
+            "title": "Sum of Nodes with Even-Valued Grandparent",
+            "titleSlug": "sum-of-nodes-with-even-valued-grandparent",
+            "timestamp": "1735279921",
+            "statusDisplay": "Accepted",
+            "lang": "cpp"
+        },
+        {
+            "title": "Maximum Gap",
+            "titleSlug": "maximum-gap",
+            "timestamp": "1735198386",
+            "statusDisplay": "Accepted",
+            "lang": "cpp"
+        },
+        {
+            "title": "Guess Number Higher or Lower",
+            "titleSlug": "guess-number-higher-or-lower",
+            "timestamp": "1735105435",
+            "statusDisplay": "Accepted",
+            "lang": "cpp"
+        },
+        {
+            "title": "Maximum Twin Sum of a Linked List",
+            "titleSlug": "maximum-twin-sum-of-a-linked-list",
+            "timestamp": "1735060288",
+            "statusDisplay": "Accepted",
+            "lang": "cpp"
+        },
+        {
+            "title": "Select Data",
+            "titleSlug": "select-data",
+            "timestamp": "1734974357",
+            "statusDisplay": "Accepted",
+            "lang": "pythondata"
+        }
+    ]
+}
